@@ -6120,24 +6120,29 @@ EOF
             set_colors 6 6 7 1
             read -rd '' ascii_data <<'EOF'
 ${c1}                    y:
-                  sMN-
-                 +MMMm`
-                /MMMMMd`
-               :NMMMMMMy
-              -NMMMMMMMMs
-             .NMMMMMMMMMM+
-            .mMMMMMMMMMMMM+
-            oNMMMMMMMMMMMMM+
-          `+:-+NMMMMMMMMMMMM+
-          .sNMNhNMMMMMMMMMMMM/
-        `hho/sNMMMMMMMMMMMMMMM/
-       `.`omMMmMMMMMMMMMMMMMMMM+
-      .mMNdshMMMMd+::oNMMMMMMMMMo
-     .mMMMMMMMMM+     `yMMMMMMMMMs
-    .NMMMMMMMMM/        yMMMMMMMMMy
-   -NMMMMMMMMMh         `mNMMMMMMMMd`
-  /NMMMNds+:.`             `-/oymMMMm.
- +Mmy/.                          `:smN:
+                                                            Ol                                            
+                                          'lxooXNNNNNNNNc    ;                             
+                                           c:ddKMMMMMMWMNXX00K                             
+                                         :0OKKXWNX0XNWNMWW0;c'                             
+                                        dk0WNXWWNWW0OXKXWWXkcd                             
+                                       oxOXNKNWWNWMWNWNWWWKNXOc                            
+                                      ,xk0N0NNNNXNWWNK0WWWKMXkd                            
+                                      kk0KO0XNKXNNNNNxXWNNKN0ko                            
+                                     OOkKXxkO0OOKNNNOOXKNKKKOkl                            
+                                    XkOO0K:,:,lXK00K0kOOK0KKOk:                            
+                                    ;x00kKkOkxk0000O,:.;oKK0kO'                            
+                                    OkKXKKO0KKKK0000OkdO0KOkOO;                            
+                                   dxOKNNX00XXo:cxXXKKOk0OdKOxO                            
+                                  ;o0OKNWNkllOKOk0XKOdlKKKXKxx ;                           
+                                 .cKkOKNWW0;'.'::;.:;lOXNNX0dO.                            
+                                 k:OOkxXNNXc..,....;;dXWWXKkxk'                            
+                                d'0OxdoOKKKx.','..'loXWWNK0kOd:                            
+                               :;dx0XXXxlO0d;.;...'dKXXX0koOOoc                            
+                              .:odkKXKk;';d,';;..';d00O0kdlkOdo                            
+                              ;k;d0XKdoc;'''''',',,ooxdOXOkd0kc.                           
+                             cxl,xdoccc:cc,'.....'';;cllokxclO,c                           
+                            ,,d;cl,:::;,';l;'....'',;ckdddko;0c:                           
+
 /+.                                  -o.
 EOF
         ;;
